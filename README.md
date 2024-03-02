@@ -70,7 +70,7 @@ Our mission is to deliver an engaging and thought-provoking gaming experience th
 
 ## Learn More
 
-For more information about *Prisoner 9* and our team, please visit our [official website](https://globalgamejam.org/games/2024/prisoner-9).
+For more information about *Prisoner* and our team, please visit our [official website](https://globalgamejam.org/games/2024/prisoner-9).
 
 ## Jam Year
 
